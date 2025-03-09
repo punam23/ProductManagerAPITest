@@ -2,6 +2,10 @@
 
 The ProductAPImanagerTest project is a test suite designed to ensure the functionality, reliability, and correctness of the Product Management API. It uses xUnit for testing the API endpoints, validating data integrity, and simulating various scenarios for comprehensive coverage. This project supports maintaining high-quality API standards by catching issues during development.
 
+ProductAPIManager solution - please refer it here: https://github.com/punam23/ProductAPIManager
+
+Test Results Screenshots Attached in this repository https://github.com/punam23/ProductAPIManager/blob/master/Screenshots%20of%20endpoint%20testing%20using%20Swagger.docx
+
 **Features**
 
     Unit Testing: Covers core CRUD functionalities and stock management.
